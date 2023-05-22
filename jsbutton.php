@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta http-equiv="Content-Security-Policy" content="sandbox allow-scripts allow-same-origin allow-popups;">
+    <meta http-equiv="Content-Security-Policy" content="sandbox allow-scripts allow-same-origin allow-popups;" />
   </head>
   <body>
     <div id="paypal-button-container-<plan-id>"></div>
